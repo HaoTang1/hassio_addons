@@ -25,7 +25,7 @@
     "discovery_interval": 600,
     "auto_discovery": "true",
     "debug": "false",
-    "device": 1,
+    "device": 1
   },
   "schema":
     {
