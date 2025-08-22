@@ -25,7 +25,8 @@
     "discovery_prefix": "homeassistant",
     "discovery_interval": 600,
     "auto_discovery": "true",
-    "debug": "false"
+    "debug": "false",
+    "device": 1
   },
   "schema":
     {
@@ -44,7 +45,8 @@
     "discovery_prefix": "str",
     "discovery_interval": "int",
     "auto_discovery": "bool",
-    "debug": "bool"
+    "debug": "bool",
+    "device":"int"
    }
 }
 
