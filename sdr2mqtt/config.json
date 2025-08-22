@@ -46,7 +46,7 @@
     "discovery_interval": "int",
     "auto_discovery": "bool",
     "debug": "bool",
-    "device":"int"
+    "device": "int"
    }
 }
 
